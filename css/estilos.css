@@ -1,0 +1,40 @@
+body{
+    background-color: paleturquoise;
+}
+
+.pink{
+    background-color: rgba(240, 128, 128, 0.5);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.size{
+    height: 500px;
+    width: 500px;
+}
+
+#caja1{
+    border: 2px solid red;
+}
+
+#caja2{
+    border: 2px solid blue;
+}
+
+div{
+    color: orange;
+}
+
+section{
+    color: green !important;
+}
+
+.red{
+    color: red;
+}
+
+#violet{
+    color: blueviolet;
+}
