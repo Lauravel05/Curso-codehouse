@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    height: 0;
+}
+
+h1{
+    color: blue;
+}
+body{
+    background-color: azure;
+}
